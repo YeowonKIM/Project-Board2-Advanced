@@ -8,7 +8,7 @@
 
 <br/> <br/> 
 
-## STEP 01 : 서비스 요구사항 분석
+## STEP 1 : 서비스 요구사항 분석
 
 
  #### 1. 회원 가입 API
@@ -67,26 +67,26 @@
       
 <br/> <br/> 
 
-## STEP 02  유스케이스 작성
+## STEP 2 :  유스케이스 작성
 
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fdase29%2FbtrZqS36imb%2FhQVeYLW3RIOUIl94QZior0%2Fimg.jpg"  width="600" height="400">
 
 <br/> <br/> 
 
 
-## STEP 03   ERD 작성
+## STEP 3 :  ERD 작성
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbjn7Lx%2FbtrZuDxBn0d%2FarPrZmDRfhsJ3hglN13C30%2Fimg.png"  width="600" height="300">
 
 <br/><br/>
 
 
-## STEP 04   API 명세서 작성
+## STEP 4 :   API 명세서 작성
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F3BIAM%2FbtrZrUGQzoI%2FapZzTKE35ZuEZK4E9V1dV1%2Fimg.png"  width="800" height="600">
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FzIDWR%2FbtrZqFYhnou%2FJGqBmK60mjc5mF0mxBYvC0%2Fimg.png"  width="800" height="400">
 
 <br/><br/>
 
-## STEP 05  코드작성
+## STEP 5 :  코드작성
 
 <br/><br/>
 
